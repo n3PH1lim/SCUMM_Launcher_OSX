@@ -48,11 +48,13 @@ ___
 
 ### 2. Modify config in ShellScript
 
-![shell_config](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/shell_config.png)
-
 set App Name in this case Beneath a Steel Sky in the script scumm_game_launcher.sh
 
-## !CAUTION! (you MUST save the automator App with the identical name!)
+![shell_config](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/shell_config.png)
+
+set app name, game directory and gameID in this case Beneath a Steel Sky in the script scumm_game_launcher.sh
+
+**!CAUTION! (you --MUST-- save the automator App with the identical name!)**
 
 ![app_name](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/app_name.png)
 
