@@ -3,13 +3,13 @@ PATH=/bin:/usr/bin:/sbin:/usr/sbin export PATH
 # launcher script for scummvm games
 #######################################
 # ".app Name"
-APP_NAME="Flight of the Amazon Queen"
+APP_NAME="Beneath a Steel Sky"
 
 # folder where the game is stored
-GAME_DIRECTORY="queen"
+GAME_DIRECTORY="sky"
 
 # scummvm game id
-GAME_ID="queen"
+GAME_ID="sky"
 #######################################
 
 # where scummvm is stored
