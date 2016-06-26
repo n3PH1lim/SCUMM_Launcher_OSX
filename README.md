@@ -1,5 +1,7 @@
 # ScummVM Launcher
-## Build an simple APP with ScummVM an Automator
+## Build an simple APP with ScummVM and Automator
+
+___
 
 ## What you need
 
@@ -20,7 +22,7 @@ You can use Beneath a Steel Sky for the first test
 
 ![GameID](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/gameid.png)
 
-In this case the ID from Beneath a Steel Sky is "sky"
+In this case the ID from Beneath a Steel Sky is "sky" the Game Shortname
 
 ### 4. The Icon
 Google for some Icon you like.
@@ -33,6 +35,12 @@ Convert the Image to an .icns file
 
 ![icon_converter](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_converter.png)
 
+___
+
 ## Build the App
 
 ### 1. Create a new Automator/Bash App
+
+![automator_program](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/automator_program.png)
+
+![automator_shell](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/automator_shell.png)
