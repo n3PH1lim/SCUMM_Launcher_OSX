@@ -1,4 +1,4 @@
-# ScummVM Launcher
+# ScummVM App Builder OS X
 ## Build an simple APP with ScummVM and Automator
 
 ___
@@ -6,9 +6,7 @@ ___
 ## What you need
 
 ### 1. Get ScummVM from scummvm.org
-[http://scummvm.org/downloads/](http://scummvm.org/downloads/)
-
-![Download](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/get_scumm.png "Download")
+[![Download](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/get_scumm.png "Download")](http://scummvm.org/downloads/)
 
 ### 2. The Game
 
