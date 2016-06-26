@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=582ZZQUWRN3QG)
+
 # ScummVM App Builder OS X
 ## Build an simple APP with ScummVM and Automator
 
@@ -115,6 +117,5 @@ ___
 
 If you have any comments or suggestions please feel free to let me know.
 
-# Donation Button
-
+If you like my work donate me a coffee
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=582ZZQUWRN3QG)
