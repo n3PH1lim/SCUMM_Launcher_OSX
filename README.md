@@ -25,6 +25,7 @@ In this case the ID from Beneath a Steel Sky is "sky"
 ### 4. The Icon
 Google for some Icon you like.
 
+
 ec. ![Icon](http://www.macupdate.com/images/icons256/45614.png)
 
 Convert the Image to an .icns file
