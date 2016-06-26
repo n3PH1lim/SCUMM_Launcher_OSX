@@ -73,10 +73,13 @@ simple copy and paste the complete script
 
 ### 6. Add all content
 
-ScummVM and the game (the gamefolder must be the GameID)
+copy ScummVM and the game to /Contents/MacOS/
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/copy_content.png)
 
+(the gamefolder must be the GameID)
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/content_copied.png)
 
 ### 7. Create savegames folder in gamefolder
 
