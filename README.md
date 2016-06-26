@@ -61,3 +61,7 @@ set App Name in this case Beneath a Steel Sky
 simple copy and paste the complete script
 
 ![script_cp](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/script_cp.png)
+
+### 4. Save the App
+
+![app](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/app.png)
