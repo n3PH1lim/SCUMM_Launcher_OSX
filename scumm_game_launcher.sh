@@ -1,5 +1,6 @@
 #!/bin/bash
 PATH=/bin:/usr/bin:/sbin:/usr/sbin export PATH
+
 # launcher script for scummvm games
 #######################################
 # ".app Name"

@@ -1,6 +1,9 @@
 # ScummVM App Builder OS X
 ## Build an simple APP with ScummVM and Automator
 
+Use the script scumm_game_launcher.sh to build an complete independent APP
+with scummVM and the adventure game.
+
 ___
 
 ## What you need
@@ -95,12 +98,12 @@ The Icon appears
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_added.png)
 
 
-### 9. Start the game an have fun
+### 9. Start the game and have some fun
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/the_final_app.png)
 
 
 ---
 
-You can copy/move the app as you like. The config you change
-ingame is stored inside the app also the savegames.
+## You can copy/move the app as you like. The config you change
+## ingame is stored inside the app also the savegames.
