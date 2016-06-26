@@ -5,6 +5,7 @@ Use the script scumm_game_launcher.sh to build an complete independent APP
 with scummVM and the adventure game.
 
 ___
+___
 
 ## What you need
 
@@ -84,11 +85,11 @@ ___
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/content_copied.png)
 
-###### 7. Create savegames folder in gamefolder
+###### 7. Create savegames folder inside the gamefolder
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/add_savegames_folder.png)
 
-###### 8. Set Icon ;)
+###### 8. Set Icon :smiley:
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/goto_information.png)
 
@@ -105,8 +106,15 @@ ___
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/the_final_app.png)
 
+---
+
+### You can copy/move the app as you like.
+### The settings you change ingame is stored inside the app also the savegames.
 
 ---
 
-## You can copy/move the app as you like. The config you change
-## ingame is stored inside the app also the savegames.
+If you have any comments or suggestions please feel free to let me know.
+
+# Donation Button
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JV3H758JPW9MC)
