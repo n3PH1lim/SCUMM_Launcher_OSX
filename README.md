@@ -115,7 +115,8 @@ ___
 
 ---
 
-If you have any comments or suggestions please feel free to let me know.
+**If you have any comments or suggestions please feel free to let me know!**
 
-If you like my work donate me a coffee
+__If you like my work donate me a coffee__
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=582ZZQUWRN3QG)
