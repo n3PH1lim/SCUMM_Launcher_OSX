@@ -44,3 +44,7 @@ ___
 ![automator_program](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/automator_program.png)
 
 ![automator_shell](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/automator_shell.png)
+
+### 2. Modify config in ShellScript
+
+![shell_config](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/shell_config.png)
