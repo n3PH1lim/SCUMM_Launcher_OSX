@@ -2,7 +2,7 @@
 ## Build an simple APP with SCUMMVM an Automator
 
 ### Get ScummVM from scummvm.org
-[Download](http://scummvm.org/downloads/ "ScummVM Download")
+[Download](http://scummvm.org/downloads/)
 ![Download](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/pictures/get_scumm.png "Download")
 
 
