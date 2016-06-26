@@ -11,14 +11,13 @@ ___
 ### 2. The Game
 
 You can use Beneath a Steel Sky for the first test
-[https://www.scummvm.org/games/](https://www.scummvm.org/games/)
 
 [![GameDownload](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/game_download.png)](https://www.scummvm.org/games/)
 
 ### 3. Get GameID from
 [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/)
 
-![GameID](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/gameid.png)
+[![GameID](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/gameid.png)](https://www.scummvm.org/compatibility/)
 
 In this case the ID from Beneath a Steel Sky is "sky" the Game Shortname
 
