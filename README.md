@@ -110,8 +110,8 @@ ___
 
 ---
 
-### You can copy/move the app as you like.
-### The settings you change ingame is stored inside the app also the savegames.
+### You can copy/move the app as you like
+### The settings you change ingame is stored inside the app also the savegames
 
 ---
 
