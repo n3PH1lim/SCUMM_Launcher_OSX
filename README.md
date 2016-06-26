@@ -1,8 +1,8 @@
 # ScummVM App Builder OS X
 ## Build an simple APP with ScummVM and Automator
 
-Use the script scumm_game_launcher.sh to build an complete independent APP
-with scummVM and the adventure game.
+**Use the script scumm_game_launcher.sh to build an complete independent APP
+with scummVM and the adventure game.**
 
 ___
 
@@ -13,7 +13,7 @@ ___
 
 ### 2. The Game
 
-You can use Beneath a Steel Sky for the first test
+**You can use Beneath a Steel Sky for the first test**
 
 [![GameDownload](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/game_download.png)](https://www.scummvm.org/games/)
 
@@ -22,14 +22,15 @@ You can use Beneath a Steel Sky for the first test
 
 [![GameID](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/gameid.png)](https://www.scummvm.org/compatibility/)
 
-In this case the ID from Beneath a Steel Sky is "sky" the Game Short Name
+**In this case the ID from Beneath a Steel Sky is "sky" the Game Short Name**
 
 ### 4. The Icon
-Google for some Icon you like.
+
+**Google for some Icon you like**
 
 ![icon_search](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_search.png)
 
-Convert the Image to a .icns file
+**Convert the Image to a .icns file**
 
 [https://iconverticons.com/online/](https://iconverticons.com/online/)
 
@@ -48,19 +49,17 @@ ___
 
 ### 2. Modify config in ShellScript
 
-set App Name in this case Beneath a Steel Sky in the script scumm_game_launcher.sh
+**set app name, game directory and gameID in this case Beneath a Steel Sky in the script scumm_game_launcher.sh**
 
 ![shell_config](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/shell_config.png)
 
-set app name, game directory and gameID in this case Beneath a Steel Sky in the script scumm_game_launcher.sh
-
-**!CAUTION! (you --MUST-- save the automator App with the identical name!)**
+######!CAUTION! (you __MUST__ save the automator App with the identical name!)######
 
 ![app_name](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/app_name.png)
 
 ### 3. Add the script to automator_shell
 
-simple copy and paste the complete script scumm_game_launcher.sh to automator
+**simple copy and paste the complete script scumm_game_launcher.sh to automator**
 
 ![script_cp](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/script_cp.png)
 
@@ -75,11 +74,11 @@ simple copy and paste the complete script scumm_game_launcher.sh to automator
 
 ### 6. Add all content
 
-copy ScummVM and the game to /Contents/MacOS/
+**copy ScummVM and the game to /Contents/MacOS/**
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/copy_content.png)
 
-(the gamefolder must be the GameID)
+**(the gamefolder must be the GameID)**
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/content_copied.png)
 
@@ -91,11 +90,11 @@ copy ScummVM and the game to /Contents/MacOS/
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/goto_information.png)
 
-Drag & Drop the new Icon to the old Icon top left in the Information window
+**Drag & Drop the new Icon to the old Icon top left in the Information window**
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/add_icon.png)
 
-The Icon appears
+**The Icon appears**
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_added.png)
 
