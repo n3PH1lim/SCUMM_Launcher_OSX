@@ -52,11 +52,12 @@ ___
 
 set App Name in this case Beneath a Steel Sky
 
-##!CAUTION!
-you MUST save the automator App with the identical name!
+## !CAUTION! (you MUST save the automator App with the identical name!)
 
 ![app_name](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/app_name.png)
 
 ### 3. Add the script to automator_shell
 
 simple copy and paste the complete script
+
+![script_cp](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/script_cp.png)
