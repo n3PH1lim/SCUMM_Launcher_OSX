@@ -7,7 +7,6 @@ Use the script scumm_game_launcher.sh to build an complete independent APP
 with scummVM and the adventure game.
 
 ___
-___
 
 ## What you need
 
