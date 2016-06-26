@@ -32,3 +32,7 @@ Convert the Image to an .icns file
 [https://iconverticons.com/online/](https://iconverticons.com/online/)
 
 ![icon_converter](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_converter.png)
+
+## Build the App
+
+### 1. Create a new Automator/Bash App
