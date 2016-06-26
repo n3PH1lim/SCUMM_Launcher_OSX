@@ -26,6 +26,6 @@ In this case the ID from Beneath a Steel Sky is "sky"
 Google for some Icon you like.
 
 
-ec. ![Icon](http://www.macupdate.com/images/icons256/45614.png)
+ec. ![icon_search](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_search.png)
 
 Convert the Image to an .icns file
