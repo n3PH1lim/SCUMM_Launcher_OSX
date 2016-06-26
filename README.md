@@ -19,14 +19,14 @@ You can use Beneath a Steel Sky for the first test
 
 [![GameID](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/gameid.png)](https://www.scummvm.org/compatibility/)
 
-In this case the ID from Beneath a Steel Sky is "sky" the Game Shortname
+In this case the ID from Beneath a Steel Sky is "sky" the Game Short Name
 
 ### 4. The Icon
 Google for some Icon you like.
 
 ![icon_search](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_search.png)
 
-Convert the Image to an .icns file
+Convert the Image to a .icns file
 
 [https://iconverticons.com/online/](https://iconverticons.com/online/)
 
@@ -98,3 +98,9 @@ The Icon appears
 ### 9. Start the game an have fun
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/the_final_app.png)
+
+
+---
+
+You can copy/move the app as you like. The config you change
+ingame is stored inside the app also the savegames.
