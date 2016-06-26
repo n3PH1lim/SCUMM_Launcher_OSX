@@ -13,7 +13,7 @@ ___
 You can use Beneath a Steel Sky for the first test
 [https://www.scummvm.org/games/](https://www.scummvm.org/games/)
 
-![Game Download](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/game_download.png)
+[![GameDownload](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/game_download.png)](https://www.scummvm.org/games/)
 
 ### 3. Get GameID from
 [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/)
