@@ -30,7 +30,7 @@ Convert the Image to an .icns file
 
 [https://iconverticons.com/online/](https://iconverticons.com/online/)
 
-![icon_converter](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_converter.png)
+[![icon_converter](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_converter.png)](https://iconverticons.com/online/)
 
 ___
 
