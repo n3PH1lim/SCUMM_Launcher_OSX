@@ -10,8 +10,9 @@
 
 ### 2. The Game
 
-You can use for the first test Beneath a Steel Sky
+You can use Beneath a Steel Sky for the first test
 [https://www.scummvm.org/games/](https://www.scummvm.org/games/)
+
 ![Game Download](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/game_download.png)
 
 ### 3. Get GameID from
@@ -22,3 +23,8 @@ You can use for the first test Beneath a Steel Sky
 In this case the ID from Beneath a Steel Sky is "sky"
 
 ### 4. The Icon
+Google for some Icon you like.
+
+ec. ![Icon](http://www.macupdate.com/images/icons256/45614.png)
+
+Convert the Image to an .icns file
