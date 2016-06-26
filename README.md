@@ -50,7 +50,7 @@ ___
 
 ![shell_config](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/shell_config.png)
 
-set App Name in this case Beneath a Steel Sky
+set App Name in this case Beneath a Steel Sky in the script scumm_game_launcher.sh
 
 ## !CAUTION! (you MUST save the automator App with the identical name!)
 
@@ -58,7 +58,7 @@ set App Name in this case Beneath a Steel Sky
 
 ### 3. Add the script to automator_shell
 
-simple copy and paste the complete script
+simple copy and paste the complete script scumm_game_launcher.sh to automator
 
 ![script_cp](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/script_cp.png)
 
@@ -84,3 +84,20 @@ copy ScummVM and the game to /Contents/MacOS/
 ### 7. Create savegames folder in gamefolder
 
 ![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/add_savegames_folder.png)
+
+### 8. Set Icon ;)
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/goto_information.png)
+
+Drag & Drop the new Icon to the old Icon top left in the Information window
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/add_icon.png)
+
+The Icon appears
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_added.png)
+
+
+### 9. Start the game an have fun
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/the_final_app.png)
