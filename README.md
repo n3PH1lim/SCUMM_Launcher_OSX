@@ -25,7 +25,10 @@ In this case the ID from Beneath a Steel Sky is "sky"
 ### 4. The Icon
 Google for some Icon you like.
 
-
-ec. ![icon_search](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_search.png)
+![icon_search](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_search.png)
 
 Convert the Image to an .icns file
+
+[https://iconverticons.com/online/](https://iconverticons.com/online/)
+
+![icon_converter](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/icon_converter.png)
