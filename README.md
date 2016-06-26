@@ -65,3 +65,19 @@ simple copy and paste the complete script
 ### 4. Save the App
 
 ![app](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/app.png)
+
+
+### 5. Open the package content
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/open_app.png)
+
+### 6. Add all content
+
+ScummVM and the game (the gamefolder must be the GameID)
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/copy_content.png)
+
+
+### 7. Create savegames folder in gamefolder
+
+![content](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/add_savegames_folder.png)
