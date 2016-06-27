@@ -57,7 +57,7 @@ ___
 
 ![shell_config](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/shell_config.png)
 
-!CAUTION! (you __MUST__ save the automator App with the identical name!)######
+!CAUTION! (you __MUST__ save the automator App with the identical name!)
 
 ![app_name](https://github.com/n3PH1lim/SCUMM_Launcher_OSX/blob/master/images/app_name.png)
 
